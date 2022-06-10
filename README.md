@@ -7,9 +7,13 @@
 	
 
 Step1 :- Compile new_server.c and run
+
 Step2 :- Open another terminal compile and run new_client.c
+
 Step3 :- Now for first time select signup and create admin account to add trains.
+
 Step4 :- Then create customer or agents accounts as per use.
+
 Step5 :- Login using customer and agents account to book , view .... tickets.
 
 
